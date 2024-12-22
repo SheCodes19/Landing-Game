@@ -101,38 +101,7 @@ Guide the monkey to collect bananas, avoid obstacles, and land safely on the lan
 ## 🚀 **How to Run the Game**
 
 **Game Link** https://shecodes19.github.io/Landing-Game/
-
-or
-
-1. Install Node.js (if not already installed):
-   - [Download Node.js](https://nodejs.org/) and install it for your system.
-   - Verify installation:
-     ```bash
-     node -v
-     npm -v
-     ```
-
-2. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd landing-game
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start a local server:
-   ```bash
-   npx http-server
-   ```
-
-5. Open the game in your browser:
-   ```
-   http://localhost:8080
-   ```
-
+  
 ---
 
 ## 🔮 **Future Improvements**
